@@ -83,10 +83,13 @@ Employment
 ----------
 
 ### Army Game Studio / America's Army
-Huntsville, AL (2008&ndash;2017)
+**Software Engineer**, Huntsville, AL (2008&ndash;2017)
 
 ### The Game Studio (freelance)
-Huntsville, AL
+**Proprietor**, Huntsville, AL
+
+### Prototype Integration Facility
+**Computer Operator**, Huntsville, AL (2004&ndash;2007)
 
 Education
 ---------
